@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/fancazistaa" target="blank"><img src="https://img.shields.io/twitter/follow/fancazistaa?logo=twitter&style=for-the-badge" alt="fancazistaa" /></a> </p>
 
-- 🔭 I’m currently working on [Thunder Roleplay Italia](https://discord.gg/5JXzUA9bA7)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fancazistaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fancazistaa" height="30" width="40" /></a>
